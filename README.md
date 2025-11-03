@@ -1,4 +1,4 @@
-# Design-AnalysisAlgorithms-Lab  
+# DAA
 *Repository for my Algorithms & Design Analysis lab assignments.*  
 
 **Author:** Jigesh Sheoran  
