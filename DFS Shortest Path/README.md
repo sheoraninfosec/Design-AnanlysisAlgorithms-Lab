@@ -42,3 +42,16 @@ A
 
 Enter destination vertex:
 F
+```
+
+---
+
+## 💻 Sample Output
+
+```python
+Shortest Path using DFS:
+A -> C -> D -> E -> F
+
+Path Length: 4
+```
+
