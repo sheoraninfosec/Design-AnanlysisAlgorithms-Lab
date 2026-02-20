@@ -1,6 +1,6 @@
 # 🔍 DFS Based Shortest Path
 
-## 🎯 Aim
+## 🎯 Objective
 
 To implement **Depth First Search (DFS)** to find the shortest path between two vertices in a graph.
 
@@ -23,3 +23,22 @@ To implement **Depth First Search (DFS)** to find the shortest path between two 
 ## 💻 Sample Input
 
 ```python
+Enter vertices separated by space:
+A B C D E F
+
+Enter number of edges:
+6
+
+Enter edges:
+A B
+A C
+B D
+C D
+D E
+E F
+
+Enter source vertex:
+A
+
+Enter destination vertex:
+F
