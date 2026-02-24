@@ -51,7 +51,7 @@ Enter elements:
 
 ## ✅ Sample Output
 
-```
+```php
 Sorted List:
 [5, 6, 7, 11, 12, 13, 20]
 ```
