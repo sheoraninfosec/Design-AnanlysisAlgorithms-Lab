@@ -36,7 +36,21 @@ The algorithm:
 
 ---
 
-## 💻 How to Run
+## 💻 Sample Input 
 
-```bash
-python interpolation_search.py
+```php
+Enter sorted elements separated by space:
+10 20 30 40 50 60 70 80
+Enter element to search:
+50
+```
+
+---
+
+## 💻 Expected Output
+
+```php
+Element found at index 4
+```
+
+
