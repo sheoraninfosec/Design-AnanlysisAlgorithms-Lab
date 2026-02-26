@@ -15,7 +15,7 @@ This method directly follows the mathematical definition of matrix multiplicatio
 
 For matrices A (n × m) and B (m × q):
 
-C[i][j] = Σ (A[i][k] × B[k][j])  
+C [i][j]  = Σ ( A [i][k] × B [k][j] )  
 for k = 0 to m-1
 
 The algorithm:
