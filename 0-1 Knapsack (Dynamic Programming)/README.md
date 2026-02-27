@@ -5,7 +5,8 @@
 ## 📌 Overview
 
 This experiment implements the **0/1 Knapsack problem** using **Dynamic Programming (Tabulation method)**.
-In the 0/1 Knapsack problem, each item can either be included (1) or excluded (0). The goal is to maximize total value without exceeding the given capacity.
+In the 0/1 Knapsack problem, each item can either be included (1) or excluded (0). 
+The goal is to maximize total value without exceeding the given capacity.
 
 ---
 
