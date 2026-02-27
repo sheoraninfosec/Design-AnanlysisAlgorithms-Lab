@@ -40,3 +40,11 @@ Enter values separated by space:
 Enter knapsack capacity:
 50
 ```
+
+---
+
+##  Expected Output
+
+```php
+Maximum Profit: 220
+```
