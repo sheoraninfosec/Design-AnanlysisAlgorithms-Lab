@@ -1,4 +1,4 @@
-# Longest Increasing Subsequence (LIS) – Design and Analysis of Algorithms Lab
+# Longest Increasing Subsequence (LIS) – <br> Design and Analysis of Algorithms Lab
 
 ---
 
