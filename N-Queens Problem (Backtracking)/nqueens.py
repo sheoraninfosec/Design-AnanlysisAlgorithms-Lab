@@ -1,7 +1,6 @@
 # Author: Jigesh Sheoran
-# SAP ID: 590025428
+# Last Modified : 07 / 02 / 2026
 # Experiment: N-Queens Problem (All Solutions)
-# Course: M.Sc. Cyber Security – Semester 1
 
 def is_safe(board, row, col, n):
     # Check column
@@ -36,9 +35,7 @@ def print_solution(board):
     print()
 
 
-# -----------------------------
-# Main Program
-# -----------------------------
+# brain
 print("N-Queens Problem (All Solutions)")
 
 n = int(input("Enter value of N:\n"))
