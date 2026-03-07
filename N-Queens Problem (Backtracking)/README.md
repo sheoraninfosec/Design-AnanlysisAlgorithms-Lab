@@ -1,4 +1,4 @@
-# N-Queens Problem – Design and Analysis of Algorithms Lab
+# N-Queens Problem – <br> Design and Analysis of Algorithms Lab
 
 ---
 
@@ -35,3 +35,24 @@ This approach uses **backtracking** to explore and prune invalid placements effi
 ```php
 Enter value of N:
 4
+```
+
+---
+
+## 💻 Sample Output
+
+```php
+Total Solutions for N = 4: 2
+
+Solution 1:
+. Q . .
+. . . Q
+Q . . .
+. . Q .
+
+Solution 2:
+. . Q .
+Q . . .
+. . . Q
+. Q . .
+```
