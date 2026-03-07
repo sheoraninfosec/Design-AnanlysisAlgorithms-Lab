@@ -1,4 +1,4 @@
-# Minimum Number of Platforms <br> – Design and Analysis of Algorithms Lab
+# Minimum Number of Platforms – <br> Design and Analysis of Algorithms Lab
 
 ---
 
