@@ -7,7 +7,6 @@
 This experiment implements the **Minimum Number of Platforms problem**.
 
 The objective is to determine the minimum number of railway platforms required so that no train has to wait.
-
 The approach sorts arrival and departure times and uses a **two-pointer sweep technique** to track overlapping trains.
 
 ---
