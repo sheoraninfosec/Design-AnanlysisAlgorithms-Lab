@@ -1,7 +1,6 @@
 # Author: Jigesh Sheoran
-# SAP ID: 590025428
+# Last Modified : 07 / 03  / 2026
 # Experiment: Minimum Number of Platforms
-# Course: M.Sc. Cyber Security – Semester 1
 
 def min_platforms(arrival, departure):
     n = len(arrival)
@@ -28,9 +27,7 @@ def min_platforms(arrival, departure):
     return max_platforms
 
 
-# -----------------------------
-# Main Program (User Input)
-# -----------------------------
+# user input
 print("Minimum Number of Platforms Program")
 
 arrival = list(map(int, input("Enter arrival times separated by space:\n").split()))
