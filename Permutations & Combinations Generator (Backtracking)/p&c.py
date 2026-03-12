@@ -1,7 +1,6 @@
 # Author: Jigesh Sheoran
-# SAP ID: 590025428
+# Last Modified : 12 / 03 / 2026
 # Experiment: Permutations & Combinations Generator
-# Course: M.Sc. Cyber Security – Semester 1
 
 def generate_permutations(arr, start):
     if start == len(arr):
@@ -26,9 +25,7 @@ def generate_combinations(arr, index, current):
     generate_combinations(arr, index + 1, current)
 
 
-# -----------------------------
-# Main Program
-# -----------------------------
+# user input
 print("Permutations & Combinations Generator")
 
 arr = input("Enter elements separated by space:\n").split()
