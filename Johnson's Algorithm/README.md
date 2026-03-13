@@ -1,4 +1,4 @@
-# Johnson's Algorithm – Design and Analysis of Algorithms Lab
+# Johnson's Algorithm – <br> Design and Analysis of Algorithms Lab
 
 ---
 
