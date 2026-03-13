@@ -35,7 +35,6 @@ def kahn_topological_sort(graph, vertices):
     else:
         print("Topological Order:", topo_order)
 
-
 # user input
 print("Kahn's Algorithm (Topological Sort)")
 
