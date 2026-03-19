@@ -1,11 +1,10 @@
-# Hungarian Algorithm (Kuhn-Munkres) – Design and Analysis of Algorithms Lab
+# Hungarian Algorithm (Kuhn-Munkres) – <br> Design and Analysis of Algorithms Lab
 
 ---
 
 ## 📌 Overview
 
 This experiment implements the **Hungarian Algorithm (Kuhn-Munkres Algorithm)** to solve the **Assignment Problem**.
-
 The goal is to assign tasks to workers such that the total cost is minimized, with each worker assigned exactly one task.
 
 ---
