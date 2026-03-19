@@ -1,3 +1,0 @@
-def
-function
-array abc
